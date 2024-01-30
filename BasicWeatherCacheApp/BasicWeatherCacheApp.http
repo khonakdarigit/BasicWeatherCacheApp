@@ -1,0 +1,6 @@
+@BasicWeatherCacheApp_HostAddress = http://localhost:5298
+
+GET {{BasicWeatherCacheApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

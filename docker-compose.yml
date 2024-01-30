@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  bwadb:
+        image: redis
+  basicweathercacheapp:
+    image: ${DOCKER_REGISTRY-}basicweathercacheapp
+    build:
+      context: .
+      dockerfile: BasicWeatherCacheApp/Dockerfile
