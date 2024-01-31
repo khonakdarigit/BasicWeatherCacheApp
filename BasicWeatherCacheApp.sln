@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWeatherCacheApp", "Bas
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{61D05F8E-6992-4F33-BA79-CCCF5D4D2253}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{1B63D68E-EB30-47E4-B600-7A14BD234DDD}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AB1D968D-E5F6-4F4C-9AC1-D777B40F7500}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
